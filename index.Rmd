@@ -1,0 +1,15 @@
+---
+title: "9:00 Section"
+output: html_document
+---
+### *Jay Jones*
+### *October 15, 2017*
+
+Here is some arithmetic:
+```{r setup, include=TRUE}
+
+x<-3
+y<-4
+x-sqrt(y)
+
+```
